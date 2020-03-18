@@ -11,4 +11,4 @@ The major sub-modules of this system include:
 
 4. Open-Source MTA Data Stream – The NYC MTA provides real-time data of the arrival and departure times of each subway at each station. This information is streamed to our AWS cloud to be used in conjunction with the local sensor data on each subway to build our real-time subway arrival prediction engine.
 
-(Some private parts of the project is not included)
+(Some private parts of the project is not included here)
