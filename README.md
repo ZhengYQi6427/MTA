@@ -10,3 +10,5 @@ The major sub-modules of this system include:
 3. Data Analytics Engine – A major advantage of storing the large amount of data streams on the cloud is that they can be fed into a data analytics engine or machine learning software. AWS has their own suite of machine learning tools that we can leverage to build a real-time prediction engine to determine whether or not a subway rider should switch to the express line at 96th street or stay on the 1 line.
 
 4. Open-Source MTA Data Stream – The NYC MTA provides real-time data of the arrival and departure times of each subway at each station. This information is streamed to our AWS cloud to be used in conjunction with the local sensor data on each subway to build our real-time subway arrival prediction engine.
+
+(Some private parts of the project is not included)
